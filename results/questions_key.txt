@@ -1,0 +1,52 @@
+1 Qualifying Exam: Adequately estimates incoming students ability.
+2 Qualifying Exam: Adequately estimates proper class placement.
+3 Qualifying Exam: The difficulty and content were appropriate for the level of physics education received in undergrad.
+5 Subject Exams: The difficulty and content were appropriate for the level of physics education received.
+6 Subject Exams: Success on subject exams is a good indicator of future success in thesis research.
+7 Subject Exams: Content of subject exam courses reflects the skills and material students need to master for a successful Ph.D.
+9 The amount of required core courses is
+10 I know of approximately (#) ___ special topics courses available in my subfield.
+11 I believe this is a sufficient number of special topics courses to master the material I need to understand for my subfield.
+12 I feel encouraged to take topics outside my subfield.
+16 Subject exam courses: The amount of course work assigned is appropriate
+17 Required non-subject exam courses: The amount of course work assigned is appropriate
+18 Special topics courses: The amount of course work assigned is appropriate
+19 Subject exam courses: Assist me with the work I perform in my subfield.
+20 Required non-subject exam courses: Assist me with the work I perform in my subfield.
+21 Special topics courses: Assist me with the work I perform in my subfield.
+22 Subject exam courses: Quality of teaching is appropriate.
+23 Required non-subject exam courses: Quality of teaching is appropriate.
+24 Special topics courses: Quality of teaching is appropriate.
+25 Subject exam courses: Course instructors are well matched with the course they teach.
+26 Required non-subject exam courses: Course instructors are well matched with the course they teach.
+27 Special topics courses: Course instructors are well matched with the course they teach.
+28 Subject exam courses: Course instructors are sufficiently available outside of class.
+29 Required non-subject exam courses: Course instructors are sufficiently available outside of class.
+30 Special topics courses: Course instructors are sufficiently available outside of class.
+ 
+32 I am happy with the TA options offered by the department.
+33 Before coming to MSU,ŒæI was aware of the type of TA positions that would be available to me.
+34 My TA duties require at maximum 20 hours of work per week
+35 I received sufficient training relevant to fulfilling my TA duties.
+36 My TA supervisor provides adequate support for my teaching responsibilities.
+37 My research/thesis advisor respects my TA commitment.
+39 The department provides sufficient opportunity to learn about science outside my subfield (colloquia, invited talks, speaker lunches).
+40 The department provides sufficient opportunity to develop skills beyond those I use in my immediate research.
+41 The department provides sufficient opportunity for faculty and students to connect in a social capacity.
+42 My advisor encourages me to attend talks and read journal articles.
+44 I am paid a living wage.
+47 The graduate student benefits package is adequate for my needs.
+48 The department provides adequate resources for maintaining emotional and mental health, in addition to physical health.
+55 The department encourages students to explore all career options, include those outside of academia.
+56 I would like for it to be more widely accepted for students to have the opportunity to take temporary internships (outside of academia) before graduating to help decide on career paths.
+58 Expectations of the physics &amp; astronomy graduate program are appropriate.
+60 I have a good relationship with my thesis/research advisor.
+61 I feel that my advisor has appropriate/reasonable expectations of me.
+62 My advisor offers constructive criticism when appropriate.
+65 I feel that I am a member of the physics &amp; astronomy department.
+69 My enthusiasm for and interest in physics research has increased since I first started the grad program at MSU.
+71 These changes have been beneficial to me.
+73 The addition of 2-credit modular courses has encouraged me to take more special topics courses.
+74 The amount of time spent outside of class on course work was appropriate in these new 2-credit courses.
+75 I feel that these changes are improving the curriculum.
+ 
